@@ -11,10 +11,7 @@ public class Usuario {
     private String telefone;
     private String senha;
 
-
-
-    public Usuario() {
-    }
+    public Usuario() { }
 
     public String getSenha() {
         return senha;
